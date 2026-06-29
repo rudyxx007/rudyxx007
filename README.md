@@ -19,7 +19,6 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <!-- Add or remove skills in the `i=` parameter below (comma separated) -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,linux,mysql,cpp" alt="My Skills" />
   </a>
@@ -27,8 +26,8 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <!-- Dynamic GitHub Stats (Auto-updates based on rudyxx007 activity) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rudyxx007&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <!-- Optimized GitHub Stats (Heavy parameters removed to prevent server timeouts) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rudyxx007&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudyxx007&theme=radium&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
