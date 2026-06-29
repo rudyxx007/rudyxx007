@@ -11,11 +11,24 @@
   A passionate developer focused on <strong>Advanced Data Science, Computer Vision, and Artificial Intelligence</strong>. I specialize in building intelligent systems, video analytics, and designing deep learning architectures to solve complex problems.
 </p>
 
+<!-- Recruiter Focus: Quick Contact & Resume Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudy7404/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <!-- Replace with your actual email -->
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- Replace with a Google Drive or Portfolio link to your PDF resume -->
+  <a href="LINK_TO_YOUR_RESUME_PDF"><img src="https://img.shields.io/badge/Resume-2196F3?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
+</p>
+
 ### 👨‍💻 What I'm Up To
-- 🏢 Recently completed a **Data Science Internship at Jio**.
+- 🚀 **Seeking full-time opportunities** as I wrap up my final semester at university.
+- 🏢 Recently completed a **Data Science Internship at Jio**, gaining hands-on industry experience.
 - 🧠 Developing robust computer vision solutions and exploring advanced AI architectures.
-- 🎓 Wrapping up my final semester at university.
-- 📫 Reach me via <a href="https://www.linkedin.com/in/rudy7404/">LinkedIn</a>.
+
+### 🌟 Featured Projects
+<!-- Replace these placeholders with your best public repositories -->
+- **[Project Name 1](https://github.com/rudyxx007/YOUR_REPO_LINK)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: Python, PyTorch, OpenCV)*
+- **[Project Name 2](https://github.com/rudyxx007/YOUR_REPO_LINK)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: TensorFlow, Docker)*
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
@@ -27,11 +40,9 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <!-- NEW SOURCE: Activity Graph configured for dark mode with a transparent background -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudyxx007&bg_color=00000000&color=2196F3&line=2196F3&point=FFFFFF&area_color=00000000&hide_border=true&custom_title=GitHub%20Activity" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats: Restyled with a dark theme base and a transparent background override -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudyxx007&theme=dark&background=00000000&hide_border=true&title_color=2196F3" alt="GitHub Streak" />
 </p>
