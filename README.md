@@ -15,9 +15,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rudy7404/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <!-- Replace with your actual email -->
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:rudyop007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- Replace with a Google Drive or Portfolio link to your PDF resume -->
-  <a href="LINK_TO_YOUR_RESUME_PDF"><img src="https://img.shields.io/badge/Resume-2196F3?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
+  <a href="https://drive.google.com/file/d/11sLFGxd45zI6M6MAlNe4IXFgFGJUs1QE/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2196F3?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
 </p>
 
 ### 👨‍💻 What I'm Up To
@@ -27,8 +27,8 @@
 
 ### 🌟 Featured Projects
 <!-- Replace these placeholders with your best public repositories -->
-- **[Project Name 1](https://github.com/rudyxx007/YOUR_REPO_LINK)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: Python, PyTorch, OpenCV)*
-- **[Project Name 2](https://github.com/rudyxx007/YOUR_REPO_LINK)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: TensorFlow, Docker)*
+- **Agent-B(https://github.com/rudyxx007/Agent-B-Core-Engine)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: Python, PyTorch, OpenCV)*
+- **TenderSync(https://github.com/rudyxx007/TenderSync)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: TensorFlow, Docker)*
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
