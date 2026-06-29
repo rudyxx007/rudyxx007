@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Rudra 👋</h1>
 
+<!-- Animated Typing Header -->
 <p align="center">
   <a href="https://github.com/rudyxx007">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Scientist;Artificial+Intelligence+Enthusiast;Computer+Vision+%26+Deep+Learning" alt="Typing SVG" />
@@ -24,11 +25,13 @@
 </p>
 
 ### 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudyxx007&show_icons=true&theme=radium&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudyxx007&theme=radium&hide_border=true" alt="GitHub Streak" width="48%" />
+  <!-- NEW SOURCE: Activity Graph configured for dark mode with a transparent background -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudyxx007&bg_color=00000000&color=2196F3&line=2196F3&point=FFFFFF&area_color=00000000&hide_border=true&custom_title=GitHub%20Activity" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudyxx007&layout=compact&theme=radium&hide_border=true&v=1" alt="Top Languages" width="48%" />
+  <!-- Streak Stats: Restyled with a dark theme base and a transparent background override -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudyxx007&theme=dark&background=00000000&hide_border=true&title_color=2196F3" alt="GitHub Streak" />
 </p>
