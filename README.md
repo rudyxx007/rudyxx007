@@ -14,9 +14,7 @@
 <!-- Recruiter Focus: Quick Contact & Resume Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rudy7404/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- Replace with your actual email -->
   <a href="mailto:rudyop007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- Replace with a Google Drive or Portfolio link to your PDF resume -->
   <a href="https://drive.google.com/file/d/11sLFGxd45zI6M6MAlNe4IXFgFGJUs1QE/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2196F3?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
 </p>
 
@@ -26,9 +24,8 @@
 - 🧠 Developing robust computer vision solutions and exploring advanced AI architectures.
 
 ### 🌟 Featured Projects
-<!-- Replace these placeholders with your best public repositories -->
-- **[Agent-B](https://github.com/rudyxx007/Agent-B-Core-Engine)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: Python, PyTorch, OpenCV)*
-- **[TenderSync](https://github.com/rudyxx007/TenderSync)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: TensorFlow, Docker)*
+- **[Agent-B](https://github.com/rudyxx007/Agent-B-Core-Engine)**: An advanced predictive AI pipeline that forecasts Brent Crude Oil prices using an iTransformer model and walk-forward validation. It leverages multi-agent coordination to analyze macroeconomic indicators and geopolitical risks for automated procurement decisions. *(Tech Stack: Python, PyTorch, iTransformer, CrewAI)*
+- **[TenderSync](https://github.com/rudyxx007/TenderSync)**: An enterprise-grade AI pipeline designed to automate Request for Proposal (RFP) extraction and evaluate bid feasibility. It utilizes advanced document parsing, embeddings, and structured extraction to streamline complex business workflows. *(Tech Stack: Python, Docling, Voyage AI, Supabase, Groq)*
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
