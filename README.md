@@ -3,7 +3,7 @@
 <!-- Animated Typing Header -->
 <p align="center">
   <a href="https://github.com/rudyxx007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Former+Data+Science+Intern+%40+Jio;Artificial+Intelligence+Enthusiast;Computer+Vision+%26+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Scientist;Artificial+Intelligence+Enthusiast;Computer+Vision+%26+Deep+Learning" alt="Typing SVG" />
   </a>
 </p>
 
