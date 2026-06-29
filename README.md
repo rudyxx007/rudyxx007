@@ -27,8 +27,8 @@
 
 ### 🌟 Featured Projects
 <!-- Replace these placeholders with your best public repositories -->
-- **Agent-B(https://github.com/rudyxx007/Agent-B-Core-Engine)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: Python, PyTorch, OpenCV)*
-- **TenderSync(https://github.com/rudyxx007/TenderSync)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: TensorFlow, Docker)*
+- **[Agent-B](https://github.com/rudyxx007/Agent-B-Core-Engine)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: Python, PyTorch, OpenCV)*
+- **[TenderSync](https://github.com/rudyxx007/TenderSync)**: A brief 1-2 sentence description of the problem this project solves or the impact it has. *(Tech Stack: TensorFlow, Docker)*
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
