@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Rudra 👋</h1>
 
-<!-- Animated Typing Header -->
 <p align="center">
   <a href="https://github.com/rudyxx007">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Scientist;Artificial+Intelligence+Enthusiast;Computer+Vision+%26+Deep+Learning" alt="Typing SVG" />
@@ -26,11 +25,10 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <!-- Optimized GitHub Stats (Heavy parameters removed to prevent server timeouts) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rudyxx007&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudyxx007&show_icons=true&theme=radium&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudyxx007&theme=radium&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyxx007&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudyxx007&layout=compact&theme=radium&hide_border=true&v=1" alt="Top Languages" width="48%" />
 </p>
