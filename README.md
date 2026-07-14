@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rudy7404/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rudyop007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://drive.google.com/file/d/1EvlrZiaC6uyXda1QRvSG0e_1hpSF5u6c/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2196F3?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
+  <a href="https://drive.google.com/file/d/1oqzUmmsdRU7G0EfJ6BzJ5w7au_Vxmbzt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2196F3?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
 </p>
 
 ### 👨‍💻 What I'm Up To
